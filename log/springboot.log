@@ -1,8 +1,0 @@
-2020-04-07 15:15:05,063 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Starting SpringBootDemoApplication on WKWIN6139632 with PID 35816 (C:\Users\akasingh9\Desktop\MicroServicesPractice\spring-boot-demo\target\classes started by akasingh9 in C:\Users\akasingh9\Desktop\MicroServicesPractice\spring-boot-demo)
-2020-04-07 15:15:05,066 DEBUG com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
-2020-04-07 15:15:05,067 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] No active profile set, falling back to default profiles: default
-2020-04-07 15:15:07,421 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Started SpringBootDemoApplication in 2.721 seconds (JVM running for 3.246)
-2020-04-07 15:15:15,111 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Starting SpringBootDemoApplication on WKWIN6139632 with PID 35816 (C:\Users\akasingh9\Desktop\MicroServicesPractice\spring-boot-demo\target\classes started by akasingh9 in C:\Users\akasingh9\Desktop\MicroServicesPractice\spring-boot-demo)
-2020-04-07 15:15:15,111 DEBUG com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
-2020-04-07 15:15:15,112 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] No active profile set, falling back to default profiles: default
-2020-04-07 15:15:15,599 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Started SpringBootDemoApplication in 0.515 seconds (JVM running for 11.424)
