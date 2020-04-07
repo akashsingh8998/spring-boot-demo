@@ -1,0 +1,11 @@
+2020-04-07 15:58:38,952 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Starting SpringBootDemoApplication on WKWIN6139632 with PID 22256 (C:\Users\akasingh9\Desktop\MicroServicesPractice\spring-boot-demo\target\classes started by akasingh9 in C:\Users\akasingh9\Desktop\MicroServicesPractice\spring-boot-demo)
+2020-04-07 15:58:38,956 DEBUG com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-04-07 15:58:38,956 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-04-07 15:58:42,379 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Started SpringBootDemoApplication in 3.91 seconds (JVM running for 4.771)
+2020-04-07 15:58:56,472 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Starting SpringBootDemoApplication on WKWIN6139632 with PID 22256 (C:\Users\akasingh9\Desktop\MicroServicesPractice\spring-boot-demo\target\classes started by akasingh9 in C:\Users\akasingh9\Desktop\MicroServicesPractice\spring-boot-demo)
+2020-04-07 15:58:56,473 DEBUG com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-04-07 15:58:56,473 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-04-07 15:59:22,814 INFO com.sapient.springbootdemo.SpringBootDemoApplicationTests [main] Starting SpringBootDemoApplicationTests on WKWIN6139632 with PID 16044 (started by akasingh9 in C:\Users\akasingh9\Desktop\MicroServicesPractice\spring-boot-demo)
+2020-04-07 15:59:22,817 DEBUG com.sapient.springbootdemo.SpringBootDemoApplicationTests [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-04-07 15:59:22,818 INFO com.sapient.springbootdemo.SpringBootDemoApplicationTests [main] No active profile set, falling back to default profiles: default
+2020-04-07 15:59:25,970 INFO com.sapient.springbootdemo.SpringBootDemoApplicationTests [main] Started SpringBootDemoApplicationTests in 3.577 seconds (JVM running for 5.539)
