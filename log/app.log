@@ -1,0 +1,13 @@
+2020-04-07 12:29:46,825 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Starting SpringBootDemoApplication on WKWIN6139632 with PID 13128 (C:\Users\akasingh9\Desktop\MicroServicesPractice\spring-boot-demo\target\classes started by akasingh9 in C:\Users\akasingh9\Desktop\MicroServicesPractice\spring-boot-demo)
+2020-04-07 12:29:46,827 DEBUG com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-04-07 12:29:46,828 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-04-07 12:29:50,165 INFO com.sapient.springbootdemo.SpringBootDemoApplication [restartedMain] Started SpringBootDemoApplication in 3.798 seconds (JVM running for 4.937)
+2020-04-07 12:29:57,273 INFO com.sapient.controller.HelloDocker [http-nio-9001-exec-1] Hello Docker
+2020-04-07 12:30:02,733 INFO com.sapient.controller.HelloWorldController [http-nio-9001-exec-2] Hello World
+2020-04-07 12:30:12,245 INFO com.sapient.controller.HelloWorldController [http-nio-9001-exec-4] Hello Akash
+2020-04-07 12:30:41,622 INFO com.sapient.controller.HelloWorldController [http-nio-9001-exec-6] Hello Akash
+2020-04-07 12:30:42,037 INFO com.sapient.controller.HelloWorldController [http-nio-9001-exec-7] Hello Akash
+2020-04-07 12:31:25,647 INFO com.sapient.springbootdemo.SpringBootDemoApplicationTests [main] Starting SpringBootDemoApplicationTests on WKWIN6139632 with PID 25132 (started by akasingh9 in C:\Users\akasingh9\Desktop\MicroServicesPractice\spring-boot-demo)
+2020-04-07 12:31:25,652 DEBUG com.sapient.springbootdemo.SpringBootDemoApplicationTests [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-04-07 12:31:25,653 INFO com.sapient.springbootdemo.SpringBootDemoApplicationTests [main] No active profile set, falling back to default profiles: default
+2020-04-07 12:31:29,240 INFO com.sapient.springbootdemo.SpringBootDemoApplicationTests [main] Started SpringBootDemoApplicationTests in 3.97 seconds (JVM running for 5.541)
